@@ -1,6 +1,8 @@
 High level goals:
 
-Show that multi-channel inputs is important for speaker diarization
+Show that multi-channel inputs is important for speaker diarization.
+
+Show that improved diarization is useful for ASR.
 
 Week1 goals:
 
